@@ -11,7 +11,7 @@
     "react-defi-widget": "file:..",
     "react-dom": "file:../node_modules/react-dom",
     "react-scripts": "3.4.0",
-    "reactstrap": "^8.4.1",
+    "reactstrap": "^8.10.1",
     "eslint": "^6.6.0",
     "eslint-config-standard": "^11.0.0",
     "eslint-config-standard-react": "^6.0.0",
